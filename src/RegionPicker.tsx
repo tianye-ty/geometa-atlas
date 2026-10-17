@@ -1,0 +1,4 @@
+import { regionsFor,scopeName } from './franceRegions'
+export default function RegionPicker({value,onChange,country='France',label='Regions'}:{country?:string;value:string[];onChange:(ids:string[])=>void;label?:string}){
+ return <details className="region-multi-picker"><summary aria-label={label}>{value.length>2?`${value.length} regions selected`:value.length?scopeName(value):country==='Spain'?'All provinces':'All regions'}<span>⌄</span></summary><div className="region-multi-options" role="group" aria-label={label}><p>Select one or more areas</p>{regionsFor(country).map(r=><label key={r.id}><input type="checkbox" checked={value.includes(r.id)} onChange={e=>onChange(e.target.checked?[...value,r.id]:value.filter(id=>id!==r.id))}/>{r.name}</label>)}<button type="button" onClick={()=>onChange([])}>Clear selection</button></div></details>
+}

@@ -1,0 +1,262 @@
+[
+  {
+    "id": "ES-15",
+    "name": "A Coruña",
+    "aliases": []
+  },
+  {
+    "id": "ES-03",
+    "name": "Alacant/Alicante",
+    "aliases": []
+  },
+  {
+    "id": "ES-02",
+    "name": "Albacete",
+    "aliases": []
+  },
+  {
+    "id": "ES-04",
+    "name": "Almería",
+    "aliases": []
+  },
+  {
+    "id": "ES-01",
+    "name": "Araba/Álava",
+    "aliases": []
+  },
+  {
+    "id": "ES-33",
+    "name": "Asturias",
+    "aliases": []
+  },
+  {
+    "id": "ES-05",
+    "name": "Ávila",
+    "aliases": []
+  },
+  {
+    "id": "ES-06",
+    "name": "Badajoz",
+    "aliases": []
+  },
+  {
+    "id": "ES-08",
+    "name": "Barcelona",
+    "aliases": []
+  },
+  {
+    "id": "ES-48",
+    "name": "Bizkaia",
+    "aliases": []
+  },
+  {
+    "id": "ES-09",
+    "name": "Burgos",
+    "aliases": []
+  },
+  {
+    "id": "ES-10",
+    "name": "Cáceres",
+    "aliases": []
+  },
+  {
+    "id": "ES-11",
+    "name": "Cádiz",
+    "aliases": []
+  },
+  {
+    "id": "ES-39",
+    "name": "Cantabria",
+    "aliases": []
+  },
+  {
+    "id": "ES-12",
+    "name": "Castelló/Castellón",
+    "aliases": []
+  },
+  {
+    "id": "ES-51",
+    "name": "Ceuta",
+    "aliases": []
+  },
+  {
+    "id": "ES-13",
+    "name": "Ciudad Real",
+    "aliases": []
+  },
+  {
+    "id": "ES-14",
+    "name": "Córdoba",
+    "aliases": []
+  },
+  {
+    "id": "ES-16",
+    "name": "Cuenca",
+    "aliases": []
+  },
+  {
+    "id": "ES-20",
+    "name": "Gipuzkoa",
+    "aliases": []
+  },
+  {
+    "id": "ES-17",
+    "name": "Girona",
+    "aliases": []
+  },
+  {
+    "id": "ES-18",
+    "name": "Granada",
+    "aliases": []
+  },
+  {
+    "id": "ES-19",
+    "name": "Guadalajara",
+    "aliases": []
+  },
+  {
+    "id": "ES-21",
+    "name": "Huelva",
+    "aliases": []
+  },
+  {
+    "id": "ES-22",
+    "name": "Huesca",
+    "aliases": []
+  },
+  {
+    "id": "ES-07",
+    "name": "Illes Balears",
+    "aliases": []
+  },
+  {
+    "id": "ES-23",
+    "name": "Jaén",
+    "aliases": []
+  },
+  {
+    "id": "ES-26",
+    "name": "La Rioja",
+    "aliases": []
+  },
+  {
+    "id": "ES-35",
+    "name": "Las Palmas",
+    "aliases": []
+  },
+  {
+    "id": "ES-24",
+    "name": "León",
+    "aliases": []
+  },
+  {
+    "id": "ES-25",
+    "name": "Lleida",
+    "aliases": []
+  },
+  {
+    "id": "ES-27",
+    "name": "Lugo",
+    "aliases": []
+  },
+  {
+    "id": "ES-28",
+    "name": "Madrid",
+    "aliases": []
+  },
+  {
+    "id": "ES-29",
+    "name": "Málaga",
+    "aliases": []
+  },
+  {
+    "id": "ES-52",
+    "name": "Melilla",
+    "aliases": []
+  },
+  {
+    "id": "ES-30",
+    "name": "Murcia",
+    "aliases": []
+  },
+  {
+    "id": "ES-31",
+    "name": "Navarra",
+    "aliases": []
+  },
+  {
+    "id": "ES-32",
+    "name": "Ourense",
+    "aliases": []
+  },
+  {
+    "id": "ES-34",
+    "name": "Palencia",
+    "aliases": []
+  },
+  {
+    "id": "ES-36",
+    "name": "Pontevedra",
+    "aliases": []
+  },
+  {
+    "id": "ES-37",
+    "name": "Salamanca",
+    "aliases": []
+  },
+  {
+    "id": "ES-38",
+    "name": "Santa Cruz de Tenerife",
+    "aliases": []
+  },
+  {
+    "id": "ES-40",
+    "name": "Segovia",
+    "aliases": []
+  },
+  {
+    "id": "ES-41",
+    "name": "Sevilla",
+    "aliases": []
+  },
+  {
+    "id": "ES-42",
+    "name": "Soria",
+    "aliases": []
+  },
+  {
+    "id": "ES-43",
+    "name": "Tarragona",
+    "aliases": []
+  },
+  {
+    "id": "ES-44",
+    "name": "Teruel",
+    "aliases": []
+  },
+  {
+    "id": "ES-45",
+    "name": "Toledo",
+    "aliases": []
+  },
+  {
+    "id": "ES-46",
+    "name": "València/Valencia",
+    "aliases": []
+  },
+  {
+    "id": "ES-47",
+    "name": "Valladolid",
+    "aliases": []
+  },
+  {
+    "id": "ES-49",
+    "name": "Zamora",
+    "aliases": []
+  },
+  {
+    "id": "ES-50",
+    "name": "Zaragoza",
+    "aliases": []
+  }
+]
